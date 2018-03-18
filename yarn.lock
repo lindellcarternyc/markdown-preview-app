@@ -35,6 +35,10 @@
   version "16.0.40"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.0.40.tgz#caabc2296886f40b67f6fc80f0f3464476461df9"
 
+"@types/showdown@^1.7.3":
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/@types/showdown/-/showdown-1.7.3.tgz#94d384d9f9e58b2f30d8c3a1c60088db7c73e78c"
+
 abab@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"
